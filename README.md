@@ -1,5 +1,6 @@
 # Project Description
 Investigation into using filtering to create 1) a filter for 60hz noise in signals and 2) a robotic voice filter for human speech signals collected in a wav file.
+
 Overall Breakdown:
 1. Downsampling
 2. Time Chunking
